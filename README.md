@@ -1,4 +1,4 @@
-!image(<img width="1717" height="687" alt="Screenshot From 2026-08-09 12-23-11" src="https://github.com/user-attachments/assets/1cd0449d-b0dc-427d-aa6b-036a1becafa4" />)
+<img width="1717" height="687" alt="Screenshot From 2026-08-09 12-23-11" src="https://github.com/user-attachments/assets/1cd0449d-b0dc-427d-aa6b-036a1becafa4" />
 
 
 Hola a todos / Hello there 👋
