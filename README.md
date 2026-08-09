@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efd9e2ec-c747-486b-b739-445c66e60a42)
+![image](https://www.canva.com/design/DAGolYdWzp4/gnOlhixmOTx21Y5LUJGnrw/view)
 
 
 Hola a todos / Hello there 👋
