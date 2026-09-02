@@ -13,11 +13,7 @@ Hola a todos / Hello there 👋
 
 💻 Lenguajes de Programación:
 
-     * HTML5
-     * CSS3
-     * JavaScript (JS)
-     * Java
-     * Python
+     * [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
      
 <p align=center>
     <img width="400" height="400" alt="goldenalpc" src="https://github.com/user-attachments/assets/b68fa4c6-6d4b-4449-ada8-2722b0abe9e0" />
