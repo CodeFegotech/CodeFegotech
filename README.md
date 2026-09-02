@@ -12,6 +12,8 @@ Hola a todos / Hello there 👋
 - Habilidades Técnicas/ Technical Skills:
 
 💻 Lenguajes de Programación:
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
      
 <p align=center>
@@ -20,10 +22,7 @@ Hola a todos / Hello there 👋
     
 🧱 Frameworks y Librerías:
 
-     * Vue.js
-     * React
-     * Spring boot
-     * Node.JS
+[![My Skills](https://skillicons.dev/icons?i=react,react,vue,spring,nodejs,django&perline=3)](https://skillicons.dev)
      
 
 💾 Bases de Datos:
