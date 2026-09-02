@@ -33,7 +33,7 @@ Hola a todos / Hello there 👋
      
 🛠️ Herramientas de Gestión y Control de Versiones:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,trello,slack,notion,obsidian&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,obsidian&perline=2)](https://skillicons.dev)
 
      * Git
      * Github
