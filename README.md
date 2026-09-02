@@ -14,7 +14,7 @@ Hola a todos / Hello there 👋
 💻 Lenguajes de Programación:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java)](https://skillicons.dev)
      
 <p align=center>
     <img width="400" height="400" alt="goldenalpc" src="https://github.com/user-attachments/assets/b68fa4c6-6d4b-4449-ada8-2722b0abe9e0" />
@@ -22,7 +22,7 @@ Hola a todos / Hello there 👋
     
 🧱 Frameworks y Librerías:
 
-[![My Skills](https://skillicons.dev/icons?i=react,react,vue,spring,nodejs,django&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,react,vue,spring,nodejs,django,bootstrap&perline=3)](https://skillicons.dev)
      
 
 💾 Bases de Datos:
