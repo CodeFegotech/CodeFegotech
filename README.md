@@ -27,16 +27,28 @@ Hola a todos / Hello there 👋
 
 💾 Bases de Datos:
 
-     * MySQL
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=3)](https://skillicons.dev)
+
      * SQL Server
-     * PostgreSQL
-      
+     
 🛠️ Herramientas de Gestión y Control de Versiones:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,trello,slack,notion,obsidian&perline=3)](https://skillicons.dev)
 
      * Git
      * Github
      * Trello
      * Slack
+     * Notion
+     * Obsidian
+
+🛠️ OS ADMIN
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=3)](https://skillicons.dev)
+
+    * Fedora
+    * Debian
+    * Ubuntu
 
 ☁️ Tecnologías orientada a Cloud
 
