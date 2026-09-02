@@ -3,9 +3,7 @@
 
 Hola a todos / Hello there 👋
 
-* Soy Felipe Gómez, desarrollador full-stack con una gran inclinación por el análisis lógico, buscando soluciones en lo cotidiano. Me impulsa una curiosidad insaciable por explorar y aprender nuevos lenguajes y tecnologías. Soy organizado y responsable, siempre comprometido con la entrega de un trabajo de alta calidad, y valoro profundamente la estabilidad y la colaboración en entornos de desarrollo
-
-* I'm Felipe Gómez, a Full-Stack Developer with a strong inclination for logical analysis, looking for solution in the daily life. I'm driven by an insatiable curiosity to explore and learn new languages and technologies. I am an organized and responsible individual, always committed to delivering high-quality work, and I deeply value stability and collaboration in development environments.
+* I am a tech professional driven by a deep curiosity about how networks work and their security. I combine logical thinking and self-management to identify and mitigate vulnerabilities, backed by nine years of experience maintaining a zero-error standard in managing critical data. My goal is to bring a holistic security mindset to IT teams, protecting the continuity and reputation of organizations. I want to protect users and the privacy of their information from misuse by cybercriminals, but my ultimate goal is to teach them how to protect themselves
 <p align=center>
     <img width="400" height="400" alt="corgiprogrammer" src="https://github.com/user-attachments/assets/7f234def-0f7c-4fd1-9ac7-d9c4afe1dcac" />
 </p>
@@ -18,7 +16,6 @@ Hola a todos / Hello there 👋
      * HTML5
      * CSS3
      * JavaScript (JS)
-     * Kotlin
      * Java
      * Python
      
@@ -29,7 +26,6 @@ Hola a todos / Hello there 👋
 🧱 Frameworks y Librerías:
 
      * Vue.js
-     * Laravel
      * React
      * Spring boot
      * Node.JS
@@ -41,7 +37,7 @@ Hola a todos / Hello there 👋
      * SQL Server
      * PostgreSQL
       
-🛠️ Herramientas y Control de Versiones:
+🛠️ Herramientas de Gestión y Control de Versiones:
 
      * Git
      * Github
