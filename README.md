@@ -22,7 +22,7 @@ Hola a todos / Hello there 👋
     
 🧱 Frameworks y Librerías:
 
-[![My Skills](https://skillicons.dev/icons?i=,react,vue,spring,nodejs,django,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,spring,nodejs,django,bootstrap&perline=3)](https://skillicons.dev)
      
 
 💾 Bases de Datos:
