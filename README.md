@@ -78,6 +78,7 @@ Hola a todos / Hello there 👋
 📚 Actualmente Aprendiendo:
 
      * Profundizando en Python (enfocado a ciberseguridad) 🐍
-     * Confeccionando Portfolio.
      * Continuando la formación en Ingeniería Informática (Instituto Profesional AIEP).
-     * Desarrollando nuevas habilidades con el programa de ONE-ORACLE en BACKEND con Alura Latam.
+     * Google Cybersecurity Courses en Coursera.
+     
+     
