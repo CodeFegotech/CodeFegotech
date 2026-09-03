@@ -9,12 +9,12 @@ Hola a todos / Hello there 👋
 </p>
 
 
-- Habilidades Técnicas/ Technical Skills:
+<h2>Habilidades Técnicas/ Technical Skills:</h2>
 
-💻 Lenguajes de Programación:
+💻 Lenguajes de Programación & Scripting:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,bash)](https://skillicons.dev)
      
 <p align=center>
     <img width="400" height="400" alt="goldenalpc" src="https://github.com/user-attachments/assets/b68fa4c6-6d4b-4449-ada8-2722b0abe9e0" />
@@ -22,7 +22,7 @@ Hola a todos / Hello there 👋
     
 🧱 Frameworks y Librerías:
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,spring,nodejs,django,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,spring,nodejs,django,bootstrap,express&perline=7)](https://skillicons.dev)
      
 
 💾 Bases de Datos:
@@ -33,7 +33,7 @@ Hola a todos / Hello there 👋
      
 🛠️ Herramientas de Gestión y Control de Versiones:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,notion,obsidian&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,obsidian,vscode&perline=5)](https://skillicons.dev)
 
      * Git
      * Github
@@ -44,11 +44,9 @@ Hola a todos / Hello there 👋
 
 🛠️ OS ADMIN
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali&perline=5)](https://skillicons.dev)
 
     * Fedora
-    * Debian
-    * Ubuntu
 
 ☁️ Tecnologías orientada a Cloud
 
@@ -59,6 +57,7 @@ Hola a todos / Hello there 👋
     <img width="400" height="400" alt="doxihacker" src="https://github.com/user-attachments/assets/f6228eea-0657-420f-b46a-0bf68fd7c8d4" />
 </p>
 🛡️ Ciberseguridad:
+[![My Skills](https://skillicons.dev/icons?i=kali&perline=5)](https://skillicons.dev)
 
      * Pentesting
      * Escaneo de vulnerabilidades (Nmap, Nessus)
