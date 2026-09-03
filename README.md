@@ -44,7 +44,7 @@ Hola a todos / Hello there 👋
 
 🛠️ OS ADMIN
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,,,,linux,ubuntu,debian,kali&perline=4)](https://skillicons.dev)
 
     * Fedora
 
