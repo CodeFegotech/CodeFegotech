@@ -76,10 +76,9 @@ Hola a todos / Hello there 👋
      * Clean Architecture
 
 
+<p align="center"> 
 <img width="400" height="214" align="center" alt="Gemini_Generated_Image_o7n79fo7n79fo7n7" src="https://github.com/user-attachments/assets/63e1b4a5-35a5-4408-8f76-9d980a2468fa" />
-
-
-
+</p>
 
 📚 Actualmente Aprendiendo:
 
