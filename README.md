@@ -75,9 +75,18 @@ Hola a todos / Hello there 👋
      * Kanban
      * Clean Architecture
 
+<p align="center"> 
+<img width="2048" height="2048" alt="Gemini_Generated_Image_lvokfwlvokfwlvok" src="https://github.com/user-attachments/assets/1be19e10-0ab7-4f9f-890b-6fa5d4e80587" />
+</p>
+
+🖧💻🌐 Redes:
+
+
+
+
 
 <p align="center"> 
-<img width="400" height="214" align="center" alt="Gemini_Generated_Image_o7n79fo7n79fo7n7" src="https://github.com/user-attachments/assets/63e1b4a5-35a5-4408-8f76-9d980a2468fa" />
+<img width="400" height="400" alt="Gemini_Generated_Image_anq4jganq4jganq4" src="https://github.com/user-attachments/assets/2003446b-486b-4478-8bcc-ad869d7ab7f8" />
 </p>
 
 📚 Actualmente Aprendiendo:
