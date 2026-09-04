@@ -75,7 +75,7 @@ Hola a todos / Hello there 👋
      * Kanban
      * Clean Architecture
 
-<img width="1158" height="917" alt="image" src="https://github.com/user-attachments/assets/3f94eec4-8173-4ebf-b2e1-22c180df3c8b" />
+<img width="1792" height="2390" alt="Gemini_Generated_Image_o309eqo309eqo309" src="https://github.com/user-attachments/assets/c19ad30d-f73a-4080-8e8b-54f0c1945d88" />
 
 
 📚 Actualmente Aprendiendo:
