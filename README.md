@@ -75,6 +75,9 @@ Hola a todos / Hello there 👋
      * Kanban
      * Clean Architecture
 
+<img width="1158" height="917" alt="image" src="https://github.com/user-attachments/assets/3f94eec4-8173-4ebf-b2e1-22c180df3c8b" />
+
+
 📚 Actualmente Aprendiendo:
 
      * Profundizando en Python (enfocado a ciberseguridad) 🐍
