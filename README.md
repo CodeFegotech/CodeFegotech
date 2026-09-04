@@ -62,16 +62,16 @@ Hello there 👋
 [![My Skills](https://skillicons.dev/icons?i=kali&perline=5)](https://skillicons.dev)
 
      * Pentesting
-     * Escaneo de vulnerabilidades (Nmap, Nessus)
-     * Configuraciones de Seguridad en Servidores Linux
-     * Prevención enfocada a DLP (Data Loss Prevention)
-     * SGSI (Sistema de Gestión de Seguridad de la Información)
-     * Wazuh
+     * Vulnerabilities Scan (Nmap, Nessus)
+     * Security Configuration GNU/Linux Server
+     * Data Loss Prevention
+     * Information Security Management System (ISMS/ SGSI)
+     * SIEM (Wazuh)
 
      
 🔄 Agile Methodologies & Programing Principles:
 
-     * Programación Orientada a Objetos (POO)
+     * Object-Oriented Programming (OOP)
      * SCRUM
      * Kanban
      * Clean Architecture
@@ -87,6 +87,7 @@ Hello there 👋
 
 
 
+
 <p align="center"> 
 <img width="400" height="400" alt="Gemini_Generated_Image_anq4jganq4jganq4" src="https://github.com/user-attachments/assets/2003446b-486b-4478-8bcc-ad869d7ab7f8" />
 </p>
@@ -96,9 +97,9 @@ Hello there 👋
 <img width="100" height="100" alt="Loading Downloading GIF" src="https://github.com/user-attachments/assets/313fb630-1308-4885-80a0-f210c36d548b" />
 
 
-     * Profundizando en Python (enfocado a ciberseguridad) 🐍
-     * Continuando la formación en Ingeniería Informática (Instituto Profesional AIEP).
-     * Google Cybersecurity Courses en Coursera.
+     * Python (In Cybersecurity) 🐍
+     * Studies in Informatics Engineering (Instituto Profesional AIEP).
+     * Google Cybersecurity Courses on Coursera.
      * CISCO Netacad Courses: Networking & Cybersecurity
      
      
